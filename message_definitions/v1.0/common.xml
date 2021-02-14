@@ -4275,14 +4275,14 @@
       </entry>
     </enum>
     <enum name="MAG_CAL_STATUS">
-      <entry value="0" name="MAG_CAL_NOT_STARTED"/>
-      <entry value="1" name="MAG_CAL_WAITING_TO_START"/>
-      <entry value="2" name="MAG_CAL_RUNNING_STEP_ONE"/>
-      <entry value="3" name="MAG_CAL_RUNNING_STEP_TWO"/>
-      <entry value="4" name="MAG_CAL_SUCCESS"/>
-      <entry value="5" name="MAG_CAL_FAILED"/>
-      <entry value="6" name="MAG_CAL_BAD_ORIENTATION"/>
-      <entry value="7" name="MAG_CAL_BAD_RADIUS"/>
+      <entry value="0" name="MAG_CAL_NOT_STARTED"></entry>
+      <entry value="1" name="MAG_CAL_WAITING_TO_START"></entry>
+      <entry value="2" name="MAG_CAL_RUNNING_STEP_ONE"></entry>
+      <entry value="3" name="MAG_CAL_RUNNING_STEP_TWO"></entry>
+      <entry value="4" name="MAG_CAL_SUCCESS"></entry>
+      <entry value="5" name="MAG_CAL_FAILED"></entry>
+      <entry value="6" name="MAG_CAL_BAD_ORIENTATION"></entry>
+      <entry value="7" name="MAG_CAL_BAD_RADIUS"></entry>
     </enum>
   </enums>
   <messages>
